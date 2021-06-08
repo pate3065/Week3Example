@@ -16,6 +16,7 @@ public class Week3Example {
      * Today is monday
      */
     public static void main(String[] args) {
+        student id = h1;
         System.out.println("Hello Today is Week 3");
     }
     
