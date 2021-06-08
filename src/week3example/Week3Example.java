@@ -13,6 +13,7 @@ public class Week3Example {
 
     /**
      * @param args the command line arguments
+     * Today is monday
      */
     public static void main(String[] args) {
         System.out.println("Hello Today is Week 3");
